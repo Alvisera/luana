@@ -1,0 +1,45 @@
+@media screen and (min-width: 768px) {    
+    h1 {
+        font-size: 20px;
+        text-align: center;
+    }
+}
+
+:root {
+    --cor-de-fundo: #FFB6C1;
+    --cortitulo: #ffffff;
+    --borda: #EE82EE;
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+}
+
+.luaninha {
+    text-align: center;
+}
+.luana {
+    width: 500px;
+    height: 500px;
+    border: 20px solid var(--borda);
+    border-radius: 30px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 70px;
+    color: var(--cortitulo);
+}
+
+.clicaaqui {
+    border-radius: 20px;
+}
+
+.botao {
+   text-align: center;
+}
+
+.bot {
+    font-size: 30px;
+    color: black;
+}
