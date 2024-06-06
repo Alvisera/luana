@@ -1,4 +1,13 @@
-@media screen and (min-width: 768px) {}
+@media screen and (min-width: 768px) {
+    .luana {
+        width: 200px;
+        height: 200px;
+    }
+    h1 {
+        font-size: 20px;
+        text-align: center;
+    }
+}
 
 .luana {
     position: absolute;
